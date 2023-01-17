@@ -1,0 +1,97 @@
+div.or{
+    color:white;
+    width: 350px;
+    height: 60px;
+    padding-top:5px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 149px;
+
+}
+
+div.pg{
+    
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 152px;
+
+}
+
+div.m1{
+    color:white;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 170px;
+
+}
+div.m2{
+    width: 200px;
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 230px;  
+}
+
+div.m3{
+    color:white;
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 145px;  
+}
+
+div.as{
+    
+    width: 40%;
+    height: auto;
+    position:relative;
+    background:#6e6e6e;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-left:400px;
+    bottom: 10px;
+  }
+
+   /*code for navigation bar*/
+
+ .menu-bar{
+    display: flex;
+    text-align:center;
+    padding:30px;
+    background-color: #505050;
+}
+
+.menu-bar img{
+    width:10%;
+    margin-left:20px;
+}
+
+.menu-bar ul{
+    flex:1;
+    list-style:none;
+    text-align:right;
+    margin-right: 85px;
+    margin-top: 5px;
+}
+
+.menu-bar ul li{
+    display:inline-block;
+    width:150px;
+    
+}
+
+.menu-bar ul li a{
+    text-decoration:none;
+    font-size:20px;
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+
+}
+
+.menu-bar ul li a:hover{
+    color:#000000;
+}
+
+/* Code for Navigation bar ends here*/
